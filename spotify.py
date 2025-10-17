@@ -28,3 +28,5 @@ if display:
     st.bar_chart(df_filtered2["Stream"])
 
 st.write(artist)
+
+df
